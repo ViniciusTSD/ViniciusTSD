@@ -1,11 +1,9 @@
-<h1 align="center">Olá 👋, meu nome é Vinicius! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Olá, meu nome é Vinicius!></h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</h3>
 
-- 🔭 Atualmente estou atuando como aprendiz em testes e qualidade de sotware
+- 🔭 Atualmente estou atuando como aprendiz em testes e qualidade de software
 
-- 🌱 Estou estudando Python e Java
-
-- 📫 Pode entrar em contato comigo por: **vinicius.souzatassi@gmail.com**
+- 🌱 Atualmente estou estudando Python e Java
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
@@ -32,6 +30,9 @@
   </a>
   <a>
     <img src=https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png alt="C" width="40" height="40">
+  </a>
+  <a>
+    <img src= https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.pngalt="Java" width="40" height="40">
   </a>
 </p>
 
