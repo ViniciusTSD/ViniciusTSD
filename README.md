@@ -32,7 +32,7 @@
     <img src=https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png alt="C" width="40" height="40">
   </a>
   <a>
-    <img src= https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.pngalt="Java" width="40" height="40">
+    <img src=https://brandslogos.com/wp-content/uploads/images/java-logo-1.png alt="Java""40" height="40">
   </a>
 </p>
 
