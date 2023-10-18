@@ -1,9 +1,9 @@
 <h1 align="center">Olá, meu nome é Vinicius! Seja bem-vindo ao meu perfil!</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</h3>
 
-- 🔭 Atualmente estou atuando como aprendiz em testes e qualidade de software
+- Atualmente estou atuando como estagiário em testes e qualidade de software
 
-- 🌱 Atualmente estou estudando Python e Java
+- Atualmente estou estudando Python e Java
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
